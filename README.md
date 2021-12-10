@@ -2,11 +2,13 @@
 APIs Públicas
 
 
-## [Github](https://api.github.com/)
+- [Github](https://api.github.com/)
 
-## [為替](http://api.aoikujira.com/kawase/json/usd)
+- [為替](http://api.aoikujira.com/kawase/json/usd)
 
-## [Stocks](https://www.alphavantage.co/)
+- [Stocks](https://www.alphavantage.co/)
 https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=5min&apikey=RZFJ7RZ8QCZQJQ2I'
 
-## [Pokemon](https://pokeapi.co/)
+- [Pokemon](https://pokeapi.co/)
+
+- [Crypto Kitties](https://api.cryptokitties.co/kitties/)
