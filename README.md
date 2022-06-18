@@ -15,3 +15,7 @@ APIs Públicas
 - [Crypto Kitties](https://api.cryptokitties.co/kitties/)
 
 - [ISS Real Time Position](https://wheretheiss.at/w/developer)
+
+- [Portal Transparência](https://www.portaltransparencia.gov.br/api-de-dados)
+
+- [Portal Transparência](https://api.portaldatransparencia.gov.br/swagger-ui.html)
