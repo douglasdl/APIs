@@ -19,3 +19,5 @@ APIs Públicas
 - [Portal Transparência](https://www.portaltransparencia.gov.br/api-de-dados)
 
 - [Portal Transparência](https://api.portaldatransparencia.gov.br/swagger-ui.html)
+
+- [Open Weather](https://home.openweathermap.org/) 
