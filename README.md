@@ -20,4 +20,6 @@ APIs Públicas
 
 - [Portal Transparência](https://api.portaldatransparencia.gov.br/swagger-ui.html)
 
-- [Open Weather](https://home.openweathermap.org/) 
+- [Open Weather](https://home.openweathermap.org/)
+
+- [QR Code](https://goqr.me/api/doc/)
