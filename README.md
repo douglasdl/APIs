@@ -23,3 +23,8 @@ APIs Públicas
 - [Open Weather](https://home.openweathermap.org/)
 
 - [QR Code](https://goqr.me/api/doc/)
+
+
+- [Public APIs Lists](https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file)
+
+- [Public APIs](https://github.com/public-apis/public-apis?tab=readme-ov-file)
